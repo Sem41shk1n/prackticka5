@@ -1,0 +1,45 @@
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\Тортики.csproj.AssemblyReference.cache
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\Тортики.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\Тортики.AssemblyInfoInputs.cache
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\Тортики.AssemblyInfo.cs
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\Тортики.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\Тортики\bin\Debug\net6.0\Тортики.exe
+D:\проекты визуал студио\Тортики\bin\Debug\net6.0\Тортики.deps.json
+D:\проекты визуал студио\Тортики\bin\Debug\net6.0\Тортики.runtimeconfig.json
+D:\проекты визуал студио\Тортики\bin\Debug\net6.0\Тортики.dll
+D:\проекты визуал студио\Тортики\bin\Debug\net6.0\Тортики.pdb
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\Тортики.dll
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\refint\Тортики.dll
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\Тортики.pdb
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\Тортики.genruntimeconfig.cache
+D:\проекты визуал студио\Тортики\obj\Debug\net6.0\ref\Тортики.dll
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\bin\Debug\net6.0\Тортики.exe
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\bin\Debug\net6.0\Тортики.deps.json
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\bin\Debug\net6.0\Тортики.runtimeconfig.json
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\bin\Debug\net6.0\Тортики.dll
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\bin\Debug\net6.0\Тортики.pdb
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\Тортики.csproj.AssemblyReference.cache
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\Тортики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\Тортики.AssemblyInfoInputs.cache
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\Тортики.AssemblyInfo.cs
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\Тортики.csproj.CoreCompileInputs.cache
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\Тортики.dll
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\refint\Тортики.dll
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\Тортики.pdb
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\Тортики.genruntimeconfig.cache
+C:\Users\rkors\OneDrive\Рабочий стол\Practic5\obj\Debug\net6.0\ref\Тортики.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\bin\Debug\net6.0\Тортики.exe
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\bin\Debug\net6.0\Тортики.deps.json
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\bin\Debug\net6.0\Тортики.runtimeconfig.json
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\bin\Debug\net6.0\Тортики.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\bin\Debug\net6.0\Тортики.pdb
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\Тортики.csproj.AssemblyReference.cache
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\Тортики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\Тортики.AssemblyInfoInputs.cache
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\Тортики.AssemblyInfo.cs
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\Тортики.csproj.CoreCompileInputs.cache
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\Тортики.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\refint\Тортики.dll
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\Тортики.pdb
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\Тортики.genruntimeconfig.cache
+C:\Users\ilyxa\OneDrive\Рабочий стол\Practic5-master\Practic5-master\obj\Debug\net6.0\ref\Тортики.dll
